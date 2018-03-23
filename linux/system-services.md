@@ -25,6 +25,8 @@ Some useful `systemctl` commands:
 * mask
 * unmask
 * list-units
+* --failed
+* reset-failed
 
 Restart `systemd` scanning for new or changed units;
 
